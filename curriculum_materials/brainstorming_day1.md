@@ -4,6 +4,10 @@ Breast cancer, case study
 
 
 ### Learning objectives: 
+
+-tools
+  - Use NCBI website to identify databases relevant to the study at hand.
+
 - mutations (BRCA1)
   - Use	NCBI tools to	analyze	protein primary	sequence	and	structure.
   - Evaluate the relative contribution of mutations in tumor suppressor genes and proto-oncogenes in the development of cancer.
