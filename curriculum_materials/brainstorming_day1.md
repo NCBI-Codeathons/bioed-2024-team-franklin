@@ -5,7 +5,7 @@ Breast cancer, case study
 
 ### Learning objectives: 
 
--tools
+- tools
   - Use NCBI website to identify databases relevant to the study at hand.
 
 - mutations (BRCA1)
