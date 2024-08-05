@@ -3,6 +3,7 @@
 List of participants and affiliations:
 - Participant, Affiliation (Team Leader), contact information
 - Shweta Tripathi, Tuskegee University
+- Ning Sui, North Carolina State University
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
