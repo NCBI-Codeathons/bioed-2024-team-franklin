@@ -6,9 +6,9 @@ Breast cancer, case study
 ### Learning objectives: 
 - mutations (BRCA1)
   - Use	NCBI tools to	analyze	protein primary	sequence	and	structure.
-  - Evaluate the relative contribution of mutations in tumor suppressor genes and protooncogenes in the development of cancer.
+  - Evaluate the relative contribution of mutations in tumor suppressor genes and proto-oncogenes in the development of cancer.
   - Describe how mutations arise and how environmental factors can increase mutation rate.
-  - Predict the most likely effects on protein structure and function of null, reduction-offunction, overexpression, dominant-negative and gain-of-function mutations.
+  - Predict the most likely effects on protein structure and function of null, reduction-of-function, overexpression, dominant-negative and gain-of-function mutations.
   - Compare the role of both loss and gain of function mutations in the origin of tumors.
 
 - function of proteins
