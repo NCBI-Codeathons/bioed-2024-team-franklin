@@ -8,7 +8,7 @@ List of participants and affiliations:
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 
 # Project Summary
-The project is designed to be a case study investigating how biological race may have substantial effect on the clinical manifestation of breast cancer and subsequent treatment. The students will be able to investigate the how the current classifications of breast cancer types such as "triple negative" vs "triple positive" may not fully inform the clinician for effective treatment. 
+The project is designed to be a case study investigating how biological race may have substantial effect on the clinical manifestation of breast cancer and subsequent treatment. The students will be able to investigate the how the current classifications of breast cancer types such as "triple negative" vs "triple positive" may not fully inform the clinician for effective treatment. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics. 
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
