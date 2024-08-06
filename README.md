@@ -10,13 +10,13 @@ List of participants and affiliations:
 # Project Summary
 -The project is designed to be a case study investigating how breast cancer subtypes have substantial effect subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients' gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have a role in creating personalized medicine and may change the paradigm of cancer subtypes. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
 
+
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
--Students should have understanding of cancer subtypes and treatment protocols.
--Students should be able to generate basic understanding of how cancer type diagnosis will differientate treament.
--Students should be able to explain how of gene variations have a mechanism effect on treatment outcome.
--Students should be able to utilize the NCBI tools such BLASTn, GenVar, CN3D to generate understanding of the molecular genetics of each patient.
--Students should be able to recognize the novel subtype of Quadruple Negative Breast Cancer with respect to biological race and the implications for personalized medicine. 
+Students should have understanding of cancer subtypes and how treatment protocols for each subtype.
+Students should be able to explain how of existing and novel gene variations have a mechanism effect on treatment outcomes. 
+Students should be able to utilize the NCBI tools such BLASTn, GenVar, CN3D to generate understanding of the molecular genetics of the variations for each patient.
+Students should be able to recognize the novel subtype of Quadruple Negative Breast Cancer with respect to biological race and the implications for personalized medicine. 
 
 
 
