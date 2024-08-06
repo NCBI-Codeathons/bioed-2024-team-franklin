@@ -5,9 +5,10 @@ List of participants and affiliations:
 - Shweta Tripathi, Tuskegee University
 - Ning Sui, North Carolina State University
 - Deirdre O'Mara, The Pingry School, domara@pingry.org
+- Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 
 # Project Summary
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
+The project is designed to be a case study investigating how biological race may have substantial effect on the clinical manifestation of breast cancer and subsequent treatment. The students will be able to investigate the how the current classifications of breast cancer types such as "triple negative" vs "triple positive" may not fully inform the clinician for effective treatment. 
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
