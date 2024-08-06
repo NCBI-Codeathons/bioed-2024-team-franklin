@@ -8,7 +8,7 @@ List of participants and affiliations:
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 
 # Project Summary
--The project is designed to be a case study investigating how existing breast cancer subtypes have substantial effect subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients' gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have a role in creating personalized medicine and may change the paradigm of cancer subtypes. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
+-The project is designed to be a case study investigating how breast cancer subtypes have substantial effect subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients' gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have a role in creating personalized medicine and may change the paradigm of cancer subtypes. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
