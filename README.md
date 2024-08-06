@@ -1,4 +1,4 @@
-# Team Project Name
+# Breast Cancer Subtypes in Race
 
 List of participants and affiliations:
 - Participant, Affiliation (Team Leader), contact information
