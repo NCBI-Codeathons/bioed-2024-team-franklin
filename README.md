@@ -12,11 +12,11 @@ List of participants and affiliations:
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
-Students should have understanding of cancer subtypes and treatment protocols
-Students should be able to generate basic understanding of how cancer type diagnosis will differientate treament
-Students should be able to explain how of gene variations have a mechanism effect on treatment outcome.
-Students should be able to utilize the NCBI tools such BLASTn, GenVar, CN3D to generate understanding of the molecular genetics of each patient
-Students should be able to recognize the novel subtype of Quadruple Negative Breast Cancer with respect to biological race and the implications for personalized medicine. 
+-Students should have understanding of cancer subtypes and treatment protocols.
+-Students should be able to generate basic understanding of how cancer type diagnosis will differientate treament.
+-Students should be able to explain how of gene variations have a mechanism effect on treatment outcome.
+-Students should be able to utilize the NCBI tools such BLASTn, GenVar, CN3D to generate understanding of the molecular genetics of each patient.
+-Students should be able to recognize the novel subtype of Quadruple Negative Breast Cancer with respect to biological race and the implications for personalized medicine. 
 
 
 
