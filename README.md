@@ -8,14 +8,17 @@ List of participants and affiliations:
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 
 # Project Summary
--The project is designed to be a case study investigating how cancer subtypes have substantial effect on the clinical manifestation of breast cancer and subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients't gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have role in creating personalized medecine. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
+-The project is designed to be a case study investigating how existing breast cancer subtypes have substantial effect subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients' gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have a role in creating personalized medicine and may change the paradigm of cancer subtypes. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
-Students should be able to generate understanding of cancer substypes such as triple negative vs triple postive and associated treatment protocols.
-Students should be able to generate basic understanding of how cancer type diagnosis will affect treatment protocol.
-Students should be able to explain how of gene variations will affect treatment outcome.
-Student should be able to recognize the consideration of how race effects treatment outcomes
+Students should have understanding of cancer subtypes and treatment protocols
+Students should be able to generate basic understanding of how cancer type diagnosis will differientate treament
+Students should be able to explain how of gene variations have a mechanism effect on treatment outcome.
+Students should be able to utilize the NCBI tools such BLASTn, GenVar, CN3D to generate understanding of the molecular genetics of each patient
+Students should be able to recognize the novel subtype of Quadruple Negative Breast Cancer with respect to biological race and the implications for personalized medicine. 
+
+
 
 
 ## Learning Objectives
@@ -27,12 +30,11 @@ List the specific learning goals students will achieve with this curriculum.
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
-The case study is currently being developed most likely as a PDF file. 
+The case study is currently being developed most likely as a PDF file with a module format. The modules acan be utilized in sequence or several modules may be selected as needed create an appropriately level project for various levels of student with varying levels of depth.  
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
-Within the case study format student will be expected to generate graph and recognize the clinical significance of the data.
-Understanding the signifance of the data, will require the students to analyze, how typical treatment protocol may effect outcome
+Within the case study format student will be expected 
 
 ## Future Work
 Optional section. Briefly mention any potential future development plans for the curriculum package.
