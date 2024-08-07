@@ -1,7 +1,7 @@
 # Breast Cancer Subtypes in Race
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader), contact information
+- Nik Tsotakos, Penn State Harrisburg (Team Leader), nxt12@psu.edu
 - Shweta Tripathi, Tuskegee University
 - Ning Sui, North Carolina State University
 - Deirdre O'Mara, The Pingry School, domara@pingry.org
