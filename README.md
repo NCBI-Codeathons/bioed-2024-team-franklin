@@ -6,6 +6,7 @@ List of participants and affiliations:
 - Ning Sui, North Carolina State University, nsui@ncsu.edu
 - Deirdre O'Mara, The Pingry School, domara@pingry.org
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
+- Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
 
 # Project Summary
 -The project is designed to be a case study investigating how breast cancer subtypes have substantial effect subsequent treatment. By investigating and comparing the molecular genetics of two patients, students investigate current treatment protocols and further identify patients' gene variants with NCBI tools and recognize the biological mechanism of how specific mutations effect clinical treatment outcomes with particular attention to how biological race may have a role in creating personalized medicine and may change the paradigm of cancer subtypes. The project is intended for advanced level high school students and undergraduates with a core understanding of general biology along with strong unstanding central dogma and basic genetics.
