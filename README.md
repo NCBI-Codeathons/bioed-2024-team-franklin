@@ -3,7 +3,7 @@
 List of participants and affiliations:
 - Nik Tsotakos, Penn State Harrisburg (Team Leader), nxt12@psu.edu
 - Shweta Tripathi, Tuskegee University
-- Ning Sui, North Carolina State University
+- Ning Sui, North Carolina State University, nsui@ncsu.edu
 - Deirdre O'Mara, The Pingry School, domara@pingry.org
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 
