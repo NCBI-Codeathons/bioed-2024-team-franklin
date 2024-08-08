@@ -1,4 +1,4 @@
-# Breast Cancer Subtypes in Race
+# The importance of personalized genomics in breast cancer diagnosis and treatment: A case study involving the androgen receptor gene
 
 List of participants and affiliations:
 - Nik Tsotakos, Penn State Harrisburg, nxt12@psu.edu
@@ -10,10 +10,10 @@ List of participants and affiliations:
 - Nirmal Singh, MassBay Community College, nsingh@massbay.edu
 - Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
 
-# Project Summary
+## Project Summary
 AR-negative triple negative or “quadruple negative” breast cancers in African American women exhibit enriched basal and immune signatures, indicating poorer prognosis. The absence of Androgen Receptor (AR) expression in these cases is prevalent among African American women and correlates with aggressive characteristics. AR expression serves as a prognostic marker and a potential candidate for immune-targeted therapies, particularly in African American women with breast cancer. This case study (meant for advanced high school and undergraduate students of all levels) underscores the importance of AR function in the breast tumor treatment options and suggests exploring the link between AR loss- or gain-of-function and ancestry markers for enhanced treatment strategies.
 
-# Prerequisite knowledge for students
+## Prerequisite knowledge for students
 Ideally, students should meet the following prerequisites prior to using the case study: 
 - Have fundamental knowledge on Biology, especially Molecular Biology.
 - Have had a brief introduction into Cancer Biology.
