@@ -7,7 +7,7 @@ List of participants and affiliations:
 - Deirdre O'Mara, The Pingry School, domara@pingry.org
 - Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
 - Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
-- Nirmal Singh, MassBay Community College, nsingh@massbay.edu
+- Nirmal Singh (writer), MassBay Community College, nsingh@massbay.edu
 - Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
 
 # Project Summary
