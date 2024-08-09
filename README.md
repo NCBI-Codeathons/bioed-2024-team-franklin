@@ -38,7 +38,7 @@ The case study is currently being developed most likely as a PDF file with a mod
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
-Within the case study format student will be expected 
+To evaluate student learning, we will use quizzes to test understanding of AR in TNBC and NCBI tools, tests for detailed concepts and data interpretation, and practical assessments to apply findings to case studies. This approach ensures a thorough evaluation of both theoretical knowledge and practical skills.
 
 ## Future Work
 Optional section. Briefly mention any potential future development plans for the curriculum package.
