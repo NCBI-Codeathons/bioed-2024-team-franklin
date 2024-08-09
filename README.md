@@ -1,14 +1,15 @@
 # The importance of personalized genomics in breast cancer diagnosis and treatment: A case study involving the androgen receptor gene
 
-List of participants and affiliations:
-- Nik Tsotakos, Penn State Harrisburg, nxt12@psu.edu
-- Shweta Tripathi, Tuskegee University, stripathi@tuskegee.edu
-- Ning Sui, North Carolina State University, nsui@ncsu.edu
-- Deirdre O'Mara, The Pingry School, domara@pingry.org
-- Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
-- Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
-- Nirmal Singh, MassBay Community College, nsingh@massbay.edu
-- Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
+**List of participants in the group project and their affiliations:**
+Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
+Deirdre O'Mara, The Pingry School, domara@pingry.org
+Nik Tsotakos, Penn State Harrisburg, nxt12@psu.edu
+Shweta Tripathi, Tuskegee University, stripathi@tuskegee.edu
+Ning Sui, North Carolina State University, nsui@ncsu.edu
+Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
+Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
+Nirmal Singh, MassBay Community College, nsingh@massbay.edu
+
 
 ## Project Summary
 In Triple-Negative Breast Cancer (TNBC), the absence of Androgen Receptor (AR) expression, alongside estrogen receptor (ER), progesterone receptor (PR), and HER2, defines the aggressive "quadruple negative" subtype. AR-negative TNBC, particularly prevalent among African American women, is associated with a poorer prognosis due to enriched basal and immune signatures. This case study, designed for high school and undergraduate students, highlights the importance of including AR status in breast cancer classification. AR acts as a critical prognostic marker and a potential target for immune-based therapies. Utilizing NCBI tools such as ClinVar, PDB, BLAST, PubMed, ICn3D and GEO databases can help students explore AR’s role in TNBC and guide the development of more personalized and effective treatment strategies.
