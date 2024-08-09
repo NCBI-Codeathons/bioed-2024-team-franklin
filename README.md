@@ -24,12 +24,12 @@ Ideally, students should meet the following prerequisites prior to using the cas
 
 ## Learning objectives
 Following the completion of the case study, students should be able to: 
-1. have an understanding of cancer subtypes and how treatment protocols are sekected for each subtype.
-2. be able to describe how molecular genetics influences disease progression and treatment outcomes, with a consideration of racial factors.
-3. explain the significance of structural and expression gene variations in shaping treatment responses and disease outcomes in breast cancer.
-4. utilize a variety of NCBI tools such as ClinVar, PDB, BLAST, ORFfinder, and ICn3D for in-depth genomic analysis and interpretation in breast cancer research.
-5. advocate for the importance of genetic analysis in developing personalized medicine.
-6. appreciate the importance of Genomics to science and society at large.
+1. Have an understanding of cancer subtypes and how treatment protocols are selected for each subtype.
+2. Be able to describe how molecular genetics influences disease progression and treatment outcomes, with a consideration of racial factors.
+3. Explain the significance of structural and expression gene variations in shaping treatment responses and disease outcomes in breast cancer.
+4. Utilize a variety of NCBI tools such as ClinVar, PDB, BLAST, ORFfinder, and ICn3D for in-depth genomic analysis and interpretation in breast cancer research.
+5. Advocate for the importance of genetic analysis in developing personalized medicine.
+6. Appreciate the importance of Genomics to science and society at large.
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
