@@ -30,7 +30,7 @@ Following the completion of the case study, students should be able to:
 1. Have an understanding of cancer subtypes and how treatment protocols are selected for each subtype.
 2. Be able to describe how molecular genetics influences disease progression and treatment outcomes, with a consideration of racial factors.
 3. Explain the significance of structural and expression gene variations in shaping treatment responses and disease outcomes in breast cancer.
-4. Utilize a variety of NCBI tools such as ClinVar, PDB, BLAST, ORFfinder, and ICn3D for in-depth genomic analysis and interpretation in breast cancer research.
+4. Utilize a variety of NCBI tools such as ClinVar, PDB, BLAST, ORFfinder, and iCn3D for in-depth genomic analysis and interpretation in breast cancer research.
 5. Advocate for the importance of genetic analysis in developing personalized medicine.
 6. Appreciate the importance of Genomics to science and society at large.
 
