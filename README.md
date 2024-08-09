@@ -11,7 +11,8 @@ List of participants and affiliations:
 - Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
 
 ## Project Summary
-AR-negative triple negative or “quadruple negative” breast cancers in African American women exhibit enriched basal and immune signatures, indicating poorer prognosis. The absence of Androgen Receptor (AR) expression in these cases is prevalent among African American women and correlates with aggressive characteristics. AR expression serves as a prognostic marker and a potential candidate for immune-targeted therapies, particularly in African American women with breast cancer. This case study (meant for advanced high school and undergraduate students of all levels) advocates the need of including AR to the current set of ER, PR, and HER2 markers for breast cancer classification and suggests exploring the link between AR loss- or gain-of-function and ancestry markers for enhanced treatment strategies. 
+In Triple-Negative Breast Cancer (TNBC), the absence of Androgen Receptor (AR) expression, alongside estrogen receptor (ER), progesterone receptor (PR), and HER2, defines the aggressive "quadruple negative" subtype. AR-negative TNBC, particularly prevalent among African American women, is associated with a poorer prognosis due to enriched basal and immune signatures. This case study, designed for high school and undergraduate students, highlights the importance of including AR status in breast cancer classification. AR acts as a critical prognostic marker and a potential target for immune-based therapies. Utilizing NCBI tools such as Gene, PubMed, and GEO databases can help students explore AR’s role in TNBC and guide the development of more personalized and effective treatment strategies.
+
 
 ## Prerequisite knowledge for students
 Ideally, students should meet the following prerequisites prior to using the case study: 
