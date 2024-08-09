@@ -1,14 +1,15 @@
-# The importance of personalized genomics in breast cancer diagnosis and treatment: A case study involving the androgen receptor gene
+# Frontiers in Breast Cancer: A Case Study Exploring Personalized Medicine Using NCBI Tools
+
 
 **List of participants in the group project and their affiliations:**
-Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
-Deirdre O'Mara, The Pingry School, domara@pingry.org
-Nik Tsotakos, Penn State Harrisburg, nxt12@psu.edu
-Shweta Tripathi, Tuskegee University, stripathi@tuskegee.edu
-Ning Sui, North Carolina State University, nsui@ncsu.edu
-Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
-Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
-Nirmal Singh, MassBay Community College, nsingh@massbay.edu
+- Antonio Colom, Interamerican University-Metro, acolom@intermetro.edu
+- Morgan D'Ausilio, The Pingry School, mdausilio@pingry.org
+- Pradip Misra, Bagdad Unified School District, misrap@bagdadschools.org
+- Deirdre O'Mara, The Pingry School, domara@pingry.org
+- Nirmal Singh, MassBay Community College, nsingh@massbay.edu
+- Ning Sui, North Carolina State University, nsui@ncsu.edu
+- Shweta Tripathi, Tuskegee University, stripathi@tuskegee.edu
+- Nik Tsotakos, Penn State Harrisburg, nxt12@psu.edu
 
 
 ## Project Summary
@@ -34,17 +35,19 @@ Following the completion of the case study, students should be able to:
 6. Appreciate the importance of Genomics to science and society at large.
 
 ## Course Materials
-Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
-The case study is currently being developed most likely as a PDF file with a modular format. The modules can be utilized in sequence or several modules may be selected as needed to create a project appropriate for various levels of students with varying levels of depth.  
+The case study is provided as a pdf file. It is supplemented by additional supporting materials include: patient referral forms (.docx and .pdf), IHC images (.pptx), and patient cDNA sequence file (in FASTA format).
+
 
 ## Assessments
-Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
-To evaluate student learning, we will use quizzes to test understanding of AR in TNBC and NCBI tools, tests for detailed concepts and data interpretation, and practical assessments to apply findings to case studies. This approach ensures a thorough evaluation of both theoretical knowledge and practical skills.
+The guided case study includes questions that assess student understanding and skills through the process. There is a plan to develop further assessment tools, which will include quizzes to test understanding of AR in TNBC and NCBI tools, tests for detailed concepts and data interpretation, and practical assessments to apply learned skills to other case studies. This approach ensures a thorough evaluation of both theoretical knowledge and practical skills.
 
 ## Future Work
-Optional section. Briefly mention any potential future development plans for the curriculum package.
+- Enzalutamide, a competitive inhibitor of the androgen receptor (AR), blocks androgen signaling by binding to the receptor and preventing activation by natural ligands. For advanced classes, structural information from PubChem can be integrated to explore how specific mutations influence enzalutamide’s binding efficacy and the resulting impact on inhibitor effectiveness.
+- NCBI Genetic Test Registry can be used in appropriate level and topic classes to discuss available tests for breast cancer.
+- Further exploration of the T575A mutant can be introduced, using the PDB ID 1R4I.
+- The case study can be adapted to include the introduction and discussion of techniques used in molecular diagnosis, offering students both foundational knowledge and practical insights into how these methods are applied in clinical settings.
 
-# NCBI Codeathon Disclaimer
+# NCBI Curriculathon Disclaimer
 This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
